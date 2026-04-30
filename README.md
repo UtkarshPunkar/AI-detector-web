@@ -29,7 +29,7 @@ A deep learning based web application that detects whether an image is **AI-gene
 
 ---
 
-## 📂 Full Project Structure (Development)
+## 📂 Full Project Structure (Development):
 
 ```id="lxt9qg"
 ai-image-detector/
@@ -58,7 +58,7 @@ ai-image-detector/
 
 ---
 
-## 🌐 Deployment Structure (GitHub Pages)
+## 🌐 Deployment Structure (GitHub Pages):
 
 ```id="ss4d1g"
 ai-detector-web/
@@ -71,7 +71,7 @@ ai-detector-web/
 
 ---
 
-## ⚙️ How It Works
+## ⚙️ How It Works:
 
 1. User uploads image
 2. Image resized to 224×224
