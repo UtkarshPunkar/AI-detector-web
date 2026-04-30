@@ -10,7 +10,7 @@ A deep learning based web application that detects whether an image is **AI-gene
 
 ---
 
-## 📌 Features
+## 📌 Features:
 
 * 🖼 Upload and analyze any image
 * ⚡ Real-time prediction (browser-based)
@@ -19,7 +19,7 @@ A deep learning based web application that detects whether an image is **AI-gene
 
 ---
 
-## 🧠 Model Details
+## 🧠 Model Details:
 
 * Model: MobileNetV2 (Pretrained on ImageNet)
 * Input Size: 224 × 224
