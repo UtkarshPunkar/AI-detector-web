@@ -103,7 +103,7 @@ ai-detector-web/
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author:
 
 **Utkarsh Punkar**
 
