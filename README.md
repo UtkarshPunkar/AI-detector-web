@@ -4,7 +4,7 @@ A deep learning based web application that detects whether an image is **AI-gene
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Demo:
 
 🔗 https://utkarshpunkar.github.io/AI-detector-web/
 
@@ -84,7 +84,7 @@ ai-detector-web/
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack:
 
 * Python (Model Training)
 * TensorFlow / Keras
@@ -93,7 +93,7 @@ ai-detector-web/
 
 ---
 
-## 📊 Training Details
+## 📊 Training Details:
 
 * Dataset: AI vs Real images
 * Preprocessing: Rescaling (1/255)
