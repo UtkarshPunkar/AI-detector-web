@@ -12,7 +12,7 @@ A deep learning based web application that detects whether an image is **AI-gene
 
 ## 📌 Features:
 
-* 🖼 Upload and analyze any image
+* 🖼 Upload and Analyze any image
 * ⚡ Real-time prediction (browser-based)
 * 🧠 Transfer Learning with MobileNetV2
 * 🌐 No backend required
