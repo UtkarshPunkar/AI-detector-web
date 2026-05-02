@@ -1,4 +1,4 @@
-# 🤖 AI vs Real Image Detector
+# 🤖 AI vs Real Image Detector.
 
 A deep learning based web application that detects whether an image is **AI-generated** or **Real** using **MobileNetV2 (Transfer Learning)** and runs entirely in the browser via **TensorFlow.js**.
 
